@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/roros/Documents/ie/Computer_Science_and_Artificial_Intelligence/Year_3/Q2/Statistical Learning and Prediction/manim_regularization/src/media/videos/1080p60/partial_movie_files/LossAnimation/3393100845_138132929_65676697.mp4'
+file 'file:C:/Users/roros/Documents/ie/Computer_Science_and_Artificial_Intelligence/Year_3/Q2/Statistical Learning and Prediction/manim_regularization/src/media/videos/1080p60/partial_movie_files/LossAnimation/4008264849_2928367026_2896392499.mp4'
+file 'file:C:/Users/roros/Documents/ie/Computer_Science_and_Artificial_Intelligence/Year_3/Q2/Statistical Learning and Prediction/manim_regularization/src/media/videos/1080p60/partial_movie_files/LossAnimation/4008264849_2552855209_1858843657.mp4'

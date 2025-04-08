@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/roros/Documents/ie/Computer_Science_and_Artificial_Intelligence/Year_3/Q2/Statistical Learning and Prediction/manim_regularization/src/media/videos/2losses/1080p15/partial_movie_files/LossAnimation/1142568948_138132929_4166197908.mp4'
+file 'file:C:/Users/roros/Documents/ie/Computer_Science_and_Artificial_Intelligence/Year_3/Q2/Statistical Learning and Prediction/manim_regularization/src/media/videos/2losses/1080p15/partial_movie_files/LossAnimation/2660880603_4006573455_958930251.mp4'
+file 'file:C:/Users/roros/Documents/ie/Computer_Science_and_Artificial_Intelligence/Year_3/Q2/Statistical Learning and Prediction/manim_regularization/src/media/videos/2losses/1080p15/partial_movie_files/LossAnimation/2660880603_2844360058_4183477869.mp4'
+file 'file:C:/Users/roros/Documents/ie/Computer_Science_and_Artificial_Intelligence/Year_3/Q2/Statistical Learning and Prediction/manim_regularization/src/media/videos/2losses/1080p15/partial_movie_files/LossAnimation/2660880603_1236170773_2933766432.mp4'
+file 'file:C:/Users/roros/Documents/ie/Computer_Science_and_Artificial_Intelligence/Year_3/Q2/Statistical Learning and Prediction/manim_regularization/src/media/videos/2losses/1080p15/partial_movie_files/LossAnimation/2660880603_2552855209_149206060.mp4'
